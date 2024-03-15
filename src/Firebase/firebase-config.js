@@ -14,18 +14,14 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyCHXCbACWl7Kyk59GQpdZho0MY5a_L1LhI",
-
-  authDomain: "blog-project-a8cfe.firebaseapp.com",
-
-  projectId: "blog-project-a8cfe",
-
-  storageBucket: "blog-project-a8cfe.appspot.com",
-
-  messagingSenderId: "369804076058",
-
-  appId: "1:369804076058:web:77cec705a3b3754760dda3"
-
+    apiKey: "AIzaSyCgRETnJ3vY9aXyMcjVayosYUzeHhRjA1I",
+  authDomain: "alapbn.firebaseapp.com",
+  databaseURL: "https://alapbn-default-rtdb.firebaseio.com",
+  projectId: "alapbn",
+  storageBucket: "alapbn.appspot.com",
+  messagingSenderId: "118103040583",
+  appId: "1:118103040583:web:addfbc1f9e80654c7d0762",
+  measurementId: "G-VJFDLDW7G5"
 };
 
 
